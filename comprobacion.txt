@@ -1,0 +1,400 @@
+Cadena 1
+m = 10
+Posición de inicio (Divide y Vencerás): 2409, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bbbnwxy
+
+Posición de inicio (Solución Directa): 2409, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bbbnwxy
+---------------------------------------
+Cadena 2
+m = 10
+Posición de inicio (Divide y Vencerás): 7198, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): dhjlqyzz
+
+Posición de inicio (Solución Directa): 7198, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): dhjlqyzz
+---------------------------------------
+Cadena 3
+m = 10
+Posición de inicio (Divide y Vencerás): 4536, Número de caracteres en la mayor subcadena ascendente: 9
+Subcadena ascendente detectada (Divide y Vencerás): adehuwxyz
+
+Posición de inicio (Solución Directa): 4536, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 9
+Subcadena ascendente detectada (Solución Directa): adehuwxyz
+---------------------------------------
+Cadena 4
+m = 10
+Posición de inicio (Divide y Vencerás): 946, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): mnstvwy
+
+Posición de inicio (Solución Directa): 946, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): mnstvwy
+---------------------------------------
+Cadena 5
+m = 10
+Posición de inicio (Divide y Vencerás): 4242, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): cdeenoq
+
+Posición de inicio (Solución Directa): 4242, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): cdeenoq
+---------------------------------------
+Cadena 6
+m = 10
+Posición de inicio (Divide y Vencerás): 1198, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bhhprrs
+
+Posición de inicio (Solución Directa): 1198, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bhhprrs
+---------------------------------------
+Cadena 7
+m = 10
+Posición de inicio (Divide y Vencerás): 4288, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): hlqrstxy
+
+Posición de inicio (Solución Directa): 4288, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): hlqrstxy
+---------------------------------------
+Cadena 8
+m = 10
+Posición de inicio (Divide y Vencerás): 3586, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): ijpqqrvx
+
+Posición de inicio (Solución Directa): 3586, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): ijpqqrvx
+---------------------------------------
+Cadena 9
+m = 10
+Posición de inicio (Divide y Vencerás): 5080, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): fgmmqvy
+
+Posición de inicio (Solución Directa): 5080, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): fgmmqvy
+---------------------------------------
+Cadena 10
+m = 10
+Posición de inicio (Divide y Vencerás): 3028, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): ijjmowy
+
+Posición de inicio (Solución Directa): 3028, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): ijjmowy
+---------------------------------------
+Cadena 11
+m = 10
+Posición de inicio (Divide y Vencerás): 174, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bejquuw
+
+Posición de inicio (Solución Directa): 174, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bejquuw
+---------------------------------------
+Cadena 12
+m = 10
+Posición de inicio (Divide y Vencerás): 2442, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): ahmmruux
+
+Posición de inicio (Solución Directa): 2442, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): ahmmruux
+---------------------------------------
+Cadena 13
+m = 10
+Posición de inicio (Divide y Vencerás): 4867, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): fgkrvvxx
+
+Posición de inicio (Solución Directa): 4867, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): fgkrvvxx
+---------------------------------------
+Cadena 14
+m = 10
+Posición de inicio (Divide y Vencerás): 3772, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): ccijqrz
+
+Posición de inicio (Solución Directa): 3772, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): ccijqrz
+---------------------------------------
+Cadena 15
+m = 10
+Posición de inicio (Divide y Vencerás): 7395, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): dhostyyy
+
+Posición de inicio (Solución Directa): 7395, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): dhostyyy
+---------------------------------------
+Cadena 16
+m = 10
+Posición de inicio (Divide y Vencerás): 9677, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): dggnnnu
+
+Posición de inicio (Solución Directa): 9677, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): dggnnnu
+---------------------------------------
+Cadena 17
+m = 10
+Posición de inicio (Divide y Vencerás): 18, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bddfgiu
+
+Posición de inicio (Solución Directa): 18, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bddfgiu
+---------------------------------------
+Cadena 18
+m = 10
+Posición de inicio (Divide y Vencerás): 1353, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): cmmrrtt
+
+Posición de inicio (Solución Directa): 1353, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): cmmrrtt
+---------------------------------------
+Cadena 19
+m = 10
+Posición de inicio (Divide y Vencerás): 7, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bmqruyz
+
+Posición de inicio (Solución Directa): 7, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bmqruyz
+---------------------------------------
+Cadena 20
+m = 10
+Posición de inicio (Divide y Vencerás): 6053, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): gmvvxxyz
+
+Posición de inicio (Solución Directa): 6053, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): gmvvxxyz
+---------------------------------------
+Cadena 21
+m = 10
+Posición de inicio (Divide y Vencerás): 4352, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bffghvy
+
+Posición de inicio (Solución Directa): 4352, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bffghvy
+---------------------------------------
+Cadena 22
+m = 10
+Posición de inicio (Divide y Vencerás): 2112, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): fllowwwz
+
+Posición de inicio (Solución Directa): 2112, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): fllowwwz
+---------------------------------------
+Cadena 23
+m = 10
+Posición de inicio (Divide y Vencerás): 2994, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): klosvzz
+
+Posición de inicio (Solución Directa): 2994, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): klosvzz
+---------------------------------------
+Cadena 24
+m = 10
+Posición de inicio (Divide y Vencerás): 3609, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): ccdlrwx
+
+Posición de inicio (Solución Directa): 3609, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): ccdlrwx
+---------------------------------------
+Cadena 25
+m = 10
+Posición de inicio (Divide y Vencerás): 1321, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): ekqqrsw
+
+Posición de inicio (Solución Directa): 1321, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): ekqqrsw
+---------------------------------------
+Cadena 26
+m = 10
+Posición de inicio (Divide y Vencerás): 3305, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): cflopuz
+
+Posición de inicio (Solución Directa): 3305, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): cflopuz
+---------------------------------------
+Cadena 27
+m = 10
+Posición de inicio (Divide y Vencerás): 771, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bbdhlny
+
+Posición de inicio (Solución Directa): 771, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bbdhlny
+---------------------------------------
+Cadena 28
+m = 10
+Posición de inicio (Divide y Vencerás): 6011, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bbmouzz
+
+Posición de inicio (Solución Directa): 6011, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bbmouzz
+---------------------------------------
+Cadena 29
+m = 10
+Posición de inicio (Divide y Vencerás): 2427, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): fkmmqxx
+
+Posición de inicio (Solución Directa): 2427, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): fkmmqxx
+---------------------------------------
+Cadena 30
+m = 10
+Posición de inicio (Divide y Vencerás): 5301, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): ammpwyy
+
+Posición de inicio (Solución Directa): 5301, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): ammpwyy
+---------------------------------------
+Cadena 31
+m = 10
+Posición de inicio (Divide y Vencerás): 6926, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): dfkqrrww
+
+Posición de inicio (Solución Directa): 6926, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): dfkqrrww
+---------------------------------------
+Cadena 32
+m = 10
+Posición de inicio (Divide y Vencerás): 2176, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): dlqruvv
+
+Posición de inicio (Solución Directa): 2176, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): dlqruvv
+---------------------------------------
+Cadena 33
+m = 10
+Posición de inicio (Divide y Vencerás): 1209, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bjmntuv
+
+Posición de inicio (Solución Directa): 1209, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bjmntuv
+---------------------------------------
+Cadena 34
+m = 10
+Posición de inicio (Divide y Vencerás): 5164, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bloorrz
+
+Posición de inicio (Solución Directa): 5164, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bloorrz
+---------------------------------------
+Cadena 35
+m = 10
+Posición de inicio (Divide y Vencerás): 593, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): defikrv
+
+Posición de inicio (Solución Directa): 593, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): defikrv
+---------------------------------------
+Cadena 36
+m = 10
+Posición de inicio (Divide y Vencerás): 6212, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): cippsvy
+
+Posición de inicio (Solución Directa): 6212, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): cippsvy
+---------------------------------------
+Cadena 37
+m = 10
+Posición de inicio (Divide y Vencerás): 3475, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): cgjllmmn
+
+Posición de inicio (Solución Directa): 3475, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): cgjllmmn
+---------------------------------------
+Cadena 38
+m = 10
+Posición de inicio (Divide y Vencerás): 1773, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): ceenuww
+
+Posición de inicio (Solución Directa): 1773, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): ceenuww
+---------------------------------------
+Cadena 39
+m = 10
+Posición de inicio (Divide y Vencerás): 649, Número de caracteres en la mayor subcadena ascendente: 9
+Subcadena ascendente detectada (Divide y Vencerás): bddhjrrtx
+
+Posición de inicio (Solución Directa): 649, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 9
+Subcadena ascendente detectada (Solución Directa): bddhjrrtx
+---------------------------------------
+Cadena 40
+m = 10
+Posición de inicio (Divide y Vencerás): 3438, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): ghhhqqru
+
+Posición de inicio (Solución Directa): 3438, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): ghhhqqru
+---------------------------------------
+Cadena 41
+m = 10
+Posición de inicio (Divide y Vencerás): 728, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): abnqsst
+
+Posición de inicio (Solución Directa): 728, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): abnqsst
+---------------------------------------
+Cadena 42
+m = 10
+Posición de inicio (Divide y Vencerás): 1289, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): bdfjkorw
+
+Posición de inicio (Solución Directa): 1289, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): bdfjkorw
+---------------------------------------
+Cadena 43
+m = 10
+Posición de inicio (Divide y Vencerás): 1306, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): efjknqvw
+
+Posición de inicio (Solución Directa): 1306, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): efjknqvw
+---------------------------------------
+Cadena 44
+m = 10
+Posición de inicio (Divide y Vencerás): 1763, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): cgipqqrs
+
+Posición de inicio (Solución Directa): 1763, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): cgipqqrs
+---------------------------------------
+Cadena 45
+m = 10
+Posición de inicio (Divide y Vencerás): 4408, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): bccfhpsx
+
+Posición de inicio (Solución Directa): 4408, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): bccfhpsx
+---------------------------------------
+Cadena 46
+m = 10
+Posición de inicio (Divide y Vencerás): 717, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): cffkmpr
+
+Posición de inicio (Solución Directa): 717, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): cffkmpr
+---------------------------------------
+Cadena 47
+m = 10
+Posición de inicio (Divide y Vencerás): 2018, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): eefjlruv
+
+Posición de inicio (Solución Directa): 2018, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): eefjlruv
+---------------------------------------
+Cadena 48
+m = 10
+Posición de inicio (Divide y Vencerás): 1977, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): gklntvz
+
+Posición de inicio (Solución Directa): 1977, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): gklntvz
+---------------------------------------
+Cadena 49
+m = 10
+Posición de inicio (Divide y Vencerás): 2990, Número de caracteres en la mayor subcadena ascendente: 7
+Subcadena ascendente detectada (Divide y Vencerás): bdfiimx
+
+Posición de inicio (Solución Directa): 2990, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 7
+Subcadena ascendente detectada (Solución Directa): bdfiimx
+---------------------------------------
+Cadena 50
+m = 10
+Posición de inicio (Divide y Vencerás): 5606, Número de caracteres en la mayor subcadena ascendente: 8
+Subcadena ascendente detectada (Divide y Vencerás): afijlnru
+
+Posición de inicio (Solución Directa): 5606, Número de caracteres en la mayor subcadena ascendente (Solución Directa): 8
+Subcadena ascendente detectada (Solución Directa): afijlnru
+---------------------------------------

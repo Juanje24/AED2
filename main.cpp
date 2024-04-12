@@ -166,61 +166,9 @@ Resultado DivideVenceras(const string &A, int p, int q, int m)
     }
 }
 
-vector<pair<string, int>> generador(int numCasos, int longMin, int longMax, int mMin, int mMax)
-{
-    vector<pair<string, int>> casosDePrueba;
-
-    srand(static_cast<unsigned>(time(nullptr)));
-
-    for (int i = 0; i < numCasos; ++i)
-    {
-        int longCadena = longMin + rand() % (longMax - longMin + 1);
-
-        string randomCadena;
-        for (int j = 0; j < longCadena; ++j)
-        {
-            char randomChar = 'a' + rand() % 26;
-            randomCadena += randomChar;
-        }
-
-        int m = mMin + rand() % (mMax - mMin + 1);
-
-        casosDePrueba.emplace_back(randomCadena, m);
-    }
-
-    return casosDePrueba;
-}
-
 int main()
 {
-
-    // MODO 1: PRUEBA CON GENERADOR DE CASOS
-    /*
-// El primer argumento es el número de cadenas a generar, el segundo y tercero número MIN y MAX de caracteres de la cadena; y el cuarto y quinto
-// son el valor MIN y MAX que puede tomar m aleatoriamente para cada cadena
-auto pruebas = generador(1, 1000000, 1000000, 1000, 1000);
-for (auto& prueba : pruebas) {
-    cout << "Caso de prueba: " << prueba.first << ", m = " << prueba.second << endl;
-}
-
-
-for (auto& [cadena, m] : pruebas) {
-    int n = cadena.length() - 1;
-    auto resultado = DivideVenceras(cadena, 0, n, m);
-    auto resultado2 = SolucionDirecta(cadena, 0, n);
-    string subcadenaDetectada = cadena.substr(resultado.inicio, resultado.tam);
-    string subcadenaDetectada2 = cadena.substr(resultado2.inicio, resultado2.tam);
-    cout << "Cadena: " << cadena << "\n";
-    cout << "Posición de inicio: " << resultado.inicio << ", ";
-    cout << "Número de caracteres en la mayor subcadena ascendente: " << resultado.tam << "\n";
-    cout << "Subcadena ascendente detectada: " << subcadenaDetectada << "\n\n";
-    cout << "Subcadena ascendente detectada: " << subcadenaDetectada2 << "\n\n";
-
-}
-
-*/
-
-    // MODO 2: PRUEBA DE CASOS PARTICULARES
+    // MODO 1: PRUEBA DE CASOS PARTICULARES
     /*
 
    // Cadena sin subcadenas ascendentes
@@ -257,7 +205,7 @@ for (auto& [cadena, m] : pruebas) {
      }
      */
 
-    // MODO 3: PRUEBA DE UN CASO PARTICULAR
+    // MODO 2: PRUEBA DE UN CASO PARTICULAR
 
     /*
     string cadena = "abbbcdddeffghhhijkkkkklmnoppqrsssttuuuvvwxyyzabcdefffghiiiijkklllmnnnopppqrsttttuuuvwwwxxyyzabbbbbcddefgghhijkklmmmnnopqrrsttuvvwwwxyzzzaaabccddeefghijjjklmmnnnnop";
@@ -269,7 +217,7 @@ for (auto& [cadena, m] : pruebas) {
     cout << "Subcadena ascendente detectada: " << subcadenaDetectada << "\n\n";
     */
 
-    // MODO 4: LEER DE LA ENTRADA ESTÁNDAR CON SALIDA INDICANDO TANTO DYV COMO SOLDIR
+    // MODO 3: LEER DE LA ENTRADA ESTÁNDAR CON SALIDA INDICANDO TANTO DYV COMO SOLDIR
 
     string cadena;
     int m;
@@ -297,7 +245,7 @@ for (auto& [cadena, m] : pruebas) {
         i = i + 1;
     }
 
-    // MODO 5: LEER DE LA ENTRADA ESTÁNDAR CON SALIDA INDICANDO SOLO DYV
+    // MODO 4: LEER DE LA ENTRADA ESTÁNDAR CON SALIDA INDICANDO SOLO DYV
 
     /*
        string cadena;

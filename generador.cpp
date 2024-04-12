@@ -31,7 +31,8 @@ int main()
 {
     int numCasos, longCadena, valorM;
 
-    cerr << "Ingrese el número de casos: "; // Imprimirlo por la salida de error es una artimaña para que no se quede en el fichero al que se redirige la salida.
+    cerr << "Ingrese el número de casos: "; // Imprimido desde la salida de error para que en caso de redireccionar
+    // la salida a un fichero no se escriba en el fichero
     cin >> numCasos;
     cerr << "Ingrese la longitud de las cadenas: ";
     cin >> longCadena;

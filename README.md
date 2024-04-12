@@ -20,7 +20,7 @@
 
 **generadorPeor.cpp**: generador de peoores casos, pide el número de casos a generar y la n.
 
-**main.cpp**: fichero que contiene la solución del algoritmo que hemos implementado. Dentro de él hay 5 modos de ejecución, se puede comentar o descomentar el modo deseado, aunque por defecto está en el modo más útil, pues devuelve la solución tanto por DyV como por Solución Directa, lo que permite comprobar que es correcto.
+**main.cpp**: fichero que contiene la solución del algoritmo que hemos implementado. Dentro de él hay 4 modos de ejecución, se puede comentar o descomentar el modo deseado, aunque por defecto está en el modo más útil, pues devuelve la solución tanto por DyV como por Solución Directa, lo que permite comprobar que es correcto.
 
 **Memoria.pdf**: Memoria de la práctica en PDF.
 
@@ -29,10 +29,10 @@
 
 
 ### Instrucciones de uso.
-Primero se debe ejecutar el make, que compila tanto los 3 generadores como el fichero main del algoritmo. Luego los 3 generadores funcionan igual, simplemente hay que indicar el número de casos y la longitud de la cadena, y se puede redireccionar a un fichero para mayor comodidad (con el carácter >). El código main tiene varios modos de ejecución (se puede cambiar yendo al main.cpp y descomentando y comentando el modo deseado). Por defecto está en el modo 4, que lee de la entrada estándar (es conveniente que sea un fichero redireccionado con el carácter <) y devuelve la solución por DyV y por solución directa. Aquí va un ejemplo:
+Primero se debe ejecutar el make, que compila tanto los 3 generadores como el fichero main del algoritmo. Luego los 3 generadores funcionan igual, simplemente hay que indicar el número de casos y la longitud de la cadena, y se puede redireccionar a un fichero para mayor comodidad (con el carácter >). El código main tiene varios modos de ejecución (se puede cambiar yendo al main.cpp y descomentando y comentando el modo deseado). Por defecto está en el modo 3, que lee de la entrada estándar (es conveniente que sea un fichero redireccionado con el carácter <) y devuelve la solución por DyV y por solución directa. Aquí va un ejemplo:
 
 
-**juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/AED2V$** make
+**juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/DyV$** make
 
 
 g++ main.cpp -o main
@@ -47,7 +47,7 @@ g++ generadorMejor.cpp -o generadorMejor
 g++ generador.cpp -o generador
 
 
-**juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/AED2V$** ./generador > c.txt
+**juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/DyV$** ./generador > c.txt
 
 
 Ingrese el número de casos: 10
@@ -56,5 +56,7 @@ Ingrese el número de casos: 10
 Ingrese la longitud de las cadenas: 10000
 
 
-**juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/AED2V$** ./main < c.txt
+**juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/DyV$** ./main < c.txt
+
+*salida generada por el programa*
 

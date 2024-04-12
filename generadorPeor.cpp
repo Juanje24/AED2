@@ -13,6 +13,8 @@ vector<pair<string, int>> generadorPeorCaso(int numCasos, int longCadena, int va
         string cadenaPeorCaso;
         char charActual = 'z';
         bool esInicioDeZ = true;
+        
+		//
 
         while (cadenaPeorCaso.length() < longCadena)
         {
@@ -22,12 +24,14 @@ vector<pair<string, int>> generadorPeorCaso(int numCasos, int longCadena, int va
                 esInicioDeZ = true;
             }
 
+			// Si el caracter actual es el del medio de una tripleta, debe ponerse 2 * (valorM / 2 - 1) veces, sino (valorM / 2 + 1)
             int repeticiones = (charActual == 'y' || charActual == 'v' || charActual == 's' ||
                                 charActual == 'p' || charActual == 'm' || charActual == 'j' ||
                                 charActual == 'g' || charActual == 'd')
                                    ? 2 * (valorM / 2 - 1)
                                    : (valorM / 2 + 1);
 
+			// Si detectamos una z en el comienzo de un ciclo, la cambiamos por una a
             for (int j = 0; j < repeticiones && cadenaPeorCaso.length() < longCadena; ++j)
             {
                 if (esInicioDeZ && charActual == 'z')
