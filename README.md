@@ -2,7 +2,6 @@
 # Algoritmos y Estructuras de Datos II
 # Juan Jesús Ortiz García - Gonzalo Vicente Pérez
 ## Curso 2023-2024. Subgrupo 2.3
-## Profesor: Jesús Sánchez Cuadrado
 
 ### Descripción de los ficheros
 
@@ -56,7 +55,20 @@ Ingrese el número de casos: 10
 Ingrese la longitud de las cadenas: 10000
 
 
+
+
 **juanje@juanje-Lenovo-ideapad-110-15ISK:~/2cuatri/AED2/DyV$** ./main < c.txt
 
 *salida generada por el programa*
 
+# Práctica Voraz y Backtracking
+# Algoritmos y Estructuras de Datos II
+# Juan Jesús Ortiz García - Gonzalo Vicente Pérez
+## Curso 2023-2024. Subgrupo 2.3
+
+
+**AR.cpp**: Programa que resuelve el problema propuesto mediante avance rápido.
+
+**BT.cpp**: Programa que resuelve el problema propuesto mediante backtracking.
+
+**Memoria-AR_BT**: Memoria de la práctica.
